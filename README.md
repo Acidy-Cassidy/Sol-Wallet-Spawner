@@ -1,4 +1,4 @@
-Sol-Wallet-Spawner
+
 Sol-Wallet-Spawner is a simple, yet powerful Node.js script designed for the Solana blockchain. It allows users to quickly generate multiple Solana wallets, providing both the public and private keys for each. This tool is perfect for developers and users looking for a fast way to create Solana wallets for testing, airdrops, or other blockchain-related projects.
 Features
 
