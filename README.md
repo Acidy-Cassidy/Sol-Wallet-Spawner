@@ -3,7 +3,9 @@ Sol-Wallet-Spawner is a simple, yet powerful Node.js script designed for the Sol
 Features
 
 Easy to Use: Run the script, specify the number of wallets you want to generate, and you're done.
+
 Secure: Wallets are generated locally on your machine, ensuring that private keys are never exposed to the internet.
+
 Versatile: Generate any number of wallets with a simple command.
 
 
