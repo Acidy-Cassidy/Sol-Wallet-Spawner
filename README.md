@@ -9,19 +9,19 @@ Versatile: Generate any number of wallets with a simple command.
 
 Installation
 Before running the script, make sure you have Node.js installed on your system. Then, clone this repository and navigate to the project directory:
-
+```
 git clone https://github.com/yourgithubusername/Sol-Wallet-Spawner.git
 
 cd Sol-Wallet-Spawner
-
+```
 Install the required npm packages:
-
+```
 npm install
-
+```
 Usage
-
+```
 node wallet.js
-
+```
 To start generating wallets, simply run:
 Follow the prompts to enter the number of wallets you wish to create. The script will then output the public and private keys for each generated wallet.
 
